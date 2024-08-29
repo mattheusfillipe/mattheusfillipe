@@ -1,7 +1,7 @@
 ## hello, i'm matheus 👋
 
 - 🎯 graphic designer switching gears to *front-end development*
-- 💻 pursuing a degree in software engineering
+- 📖 pursuing a degree in software engineering
 - 🚀 currently on the full-stack track at *@rocketseat*
 - 👨‍💻 my front-end tech stack
 
